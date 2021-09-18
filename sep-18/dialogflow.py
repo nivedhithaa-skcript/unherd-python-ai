@@ -1,3 +1,5 @@
+# FLASK_APP=dialogflow FLASK_ENV=development flask run
+
 from flask import Flask
 from flask import jsonify
 from flask import request
