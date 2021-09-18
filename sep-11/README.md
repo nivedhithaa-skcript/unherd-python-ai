@@ -3,7 +3,7 @@ Hello everyone,
 Great first class! Before we meet on Saturday please ensure that,
 
 1. You complete the vegetable shop chatbot with 3 intents,
-- Placing order
+- Placing orders
 - Receiving invoice (with dummy values, no need to sum up an invoice)
 - View deals of the day
 

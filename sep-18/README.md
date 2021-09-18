@@ -1,7 +1,4 @@
-# unherd-python-ai
-Code Repository for Unherd
-
-## DialogFlow
+# DialogFlow
 - Install Python3
 - Install PIP
 - Install Flask: http://flask.palletsprojects.com
