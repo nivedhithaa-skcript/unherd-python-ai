@@ -7,6 +7,8 @@
 
 - Pandas: https://pandas.pydata.org/docs/getting_started/install.html
 - Scikit Learn: https://scikit-learn.org/stable/install.html
+- Matplotlib: https://pypi.org/project/matplotlib/
+- Seaborn: https://seaborn.pydata.org/installing.html
 
 
 ### Scikit Learn - Decision Tree
