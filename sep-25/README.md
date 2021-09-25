@@ -3,6 +3,11 @@
 - [EDA](https://www.activestate.com/blog/exploratory-data-analysis-using-python/)
 - [Top 10](https://www.activestate.com/blog/top-10-python-machine-learning-algorithms/)
 
+### Installing Libraries
+
+- Pandas: https://pandas.pydata.org/docs/getting_started/install.html
+- Scikit Learn: https://scikit-learn.org/stable/install.html
+
 
 ### Scikit Learn - Decision Tree
 
